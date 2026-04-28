@@ -24,7 +24,7 @@
 - 📊 I love transforming messy data into clean, actionable insights
 - 🤖 Currently exploring **NLP, LLMs, Gen AI & Prompt Engineering**
 - 🚀 Building end-to-end AI pipelines with **FastAPI, Docker & Cloud**
-- 📍 Based in Pimpri, Maharashtra, India
+- 📍 Based in Jalgaon, Maharashtra, India
 - 💬 Ask me about **Python, ML, Power BI, or anything data**
 
 ---
